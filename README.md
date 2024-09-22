@@ -1,5 +1,7 @@
 # Parvum Parse: Small Yacc-like Parser Generator
 
+![logo](./logo.png)
+
 ## Compilation
 
 Compile the parser generator with
